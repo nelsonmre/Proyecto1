@@ -1,3 +1,5 @@
 class Application {
-	private String Name
+
+	private String appName
+
 }
